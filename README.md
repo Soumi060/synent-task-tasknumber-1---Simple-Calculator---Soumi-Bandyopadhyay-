@@ -34,7 +34,7 @@ How to Run
 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/simple-calculator.git
+https://github.com/Soumi060/synent-task-tasknumber-1---Simple-Calculator---Soumi-Bandyopadhyay-/tree/main
 ```
 
 2. Navigate to the Project Folder
